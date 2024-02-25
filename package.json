@@ -1,0 +1,24 @@
+{
+  "name": "simple_math_aneguzman",
+  "version": "0.0.1",
+  "description": "- **addition** Adds two numbers and returns the result.\r - **subtraction** Subtracts the second number from the first and returns the result.\r",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "Simple math package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onoff562/simple-math-for-tea.git"
+  },
+  "keywords": [
+    "math",
+    "node",
+    "js"
+  ],
+  "author": "onoff562",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onoff562/simple-math-for-tea/issues"
+  },
+  "homepage": "https://github.com/onoff562/simple-math-for-tea#readme"
+}
