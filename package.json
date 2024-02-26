@@ -1,5 +1,5 @@
 {
-  "name": "simple_math_aneguzman",
+  "name": "simple_math_for_tea",
   "version": "0.0.1",
   "description": "- **addition** Adds two numbers and returns the result.\r - **subtraction** Subtracts the second number from the first and returns the result.\r",
   "main": "bin/main.js",
