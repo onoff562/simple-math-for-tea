@@ -1,6 +1,6 @@
 {
   "name": "simple_math_for_tea",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "- **addition** Adds two numbers and returns the result.\r - **subtraction** Subtracts the second number from the first and returns the result.\r",
   "main": "bin/main.js",
   "scripts": {
